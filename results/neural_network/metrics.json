@@ -1,0 +1,19 @@
+{
+  "test_accuracy": 0.99897,
+  "test_macro_precision": 0.9989041817485023,
+  "test_macro_recall": 0.9990508495306585,
+  "test_macro_f1": 0.9989764589586947,
+  "validation_macro_f1_mean": 0.9900331018558448,
+  "validation_macro_f1_std": 0.009170994510186645,
+  "validation_folds": 5,
+  "training_clusters": 60,
+  "training_rows": 50000,
+  "test_rows": 100000,
+  "spectral_channels": 224,
+  "trainable_parameters": 16645,
+  "epochs": 44,
+  "final_training_loss": 0.00023595370554590228,
+  "cross_validation_seconds": 17.972537499997998,
+  "full_training_seconds": 5.4805361249891575,
+  "test_prediction_seconds": 0.048307750024832785
+}

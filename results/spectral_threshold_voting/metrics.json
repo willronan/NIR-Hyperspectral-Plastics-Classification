@@ -1,0 +1,12 @@
+{
+  "test_accuracy": 0.91034,
+  "test_macro_precision": 0.9110902868078549,
+  "test_macro_recall": 0.9148571215335235,
+  "test_macro_f1": 0.9104225118703189,
+  "best_validation_macro_f1": 0.8322900197446611,
+  "best_C": 0.1,
+  "validation_folds": 5,
+  "training_clusters": 60,
+  "training_rows": 50000,
+  "test_rows": 100000
+}

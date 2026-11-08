@@ -1,0 +1,6 @@
+{
+  "dark_correction": "Mean dark-current reference per channel",
+  "normalization": "Per-spectrum min-max after dark subtraction",
+  "torch_target_encoding": "Original class_id minus 1",
+  "torch_version": "2.15.0"
+}
